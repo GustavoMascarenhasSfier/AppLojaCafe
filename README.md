@@ -4,24 +4,6 @@ Esse é um projeto do curso de extensão da UNICESUMAR.
 
 Nesso projeto estamos usando a FAKESTOREAPI : https://fakestoreapi.com/products
 
-## Getting Started
-
-## TELAS PRINCIPAIS DO APP
-<div style="display: flex; gap: 10px;">
-  <img src="/assets/screen_001.jpg" width="110px" height="210px">
-  <img src="/assets/screen_002.jpg" width="110px" height="210px">
-  <img src="/assets/screen_003.jpg" width="110px" height="210px">
-</div>
-
-
-## MEUS PEDIDOS, MEUS FAVORITOS E PERFIL
-<div style="display: flex; gap: 10px;">
-  <img src="/assets/screen_004.jpg" width="110px" height="210px">
-  <img src="/assets/screen_005.jpg" width="110px" height="210px">
-  <img src="/assets/screen_006.jpg" width="110px" height="210px">
-</div>
-
-
 <hr/>
 
 🛍️ Loja Virtual Unicesumar
